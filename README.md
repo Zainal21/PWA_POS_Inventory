@@ -1,4 +1,4 @@
-# PWA_POS_Inventory_Zainal
+# Progressive Web Apps POS Inventory Zainal
 
 
 ini adalah Project PWA yang saya buat sebagai portofolio hasil dari belajar kelas online buildwithAngga (AnggaRisky)
